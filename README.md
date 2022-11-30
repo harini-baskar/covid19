@@ -1,3 +1,4 @@
 # covid19
 hello everyone
-be active
+be active 
+and stay safe
